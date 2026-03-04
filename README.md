@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there 👋
+
+I'm a Machine Learning PhD student at Georgia Institute of Technology.
+
+Please see my [personal website](https://alexandreguo2001.github.io/) for more information about my research and projects.
+
+The GitHub repositories that I serve as a core contributor can be found at [this list](https://github.com/stars/AlexandreGUO2001/lists/open-sourced-code-repos).
 
 <!--
 **AlexandreGUO2001/AlexandreGUO2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
